@@ -1,0 +1,17 @@
+algorithm 1 
+ask user to input their name 
+read the users name into a variable called "first_name"
+print "Hello , World" followed by the value of the first_name 
+
+
+algorithm 2
+ask user to input their age 
+read users age into a variable called 
+IF age>=18 Then
+print "You're old enough"
+else
+ IF age >=16 then 
+print "Almost there"
+else 
+if age 16>
+print "you're just to young "
